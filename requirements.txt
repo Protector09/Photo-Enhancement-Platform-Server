@@ -1,0 +1,10 @@
+pandas
+tensorflow
+PIL
+tinydb
+flask
+matplotlib
+huey=1.10.5
+opencv-python
+keras
+numpy
